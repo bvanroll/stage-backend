@@ -4,7 +4,7 @@ copy . /app
 workdir /app
 
 run pip install -r requirements.txt
-expose 6000
+expose 80
 entrypoint [ "python" ]
 
 cmd [ "app.py" ]
