@@ -1,0 +1,4 @@
+[submodule "stage-infra"]
+	path = infra
+	url = https://github.com/beppevanrolleghem/stage-infra
+	branch = master
