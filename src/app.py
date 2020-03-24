@@ -7,7 +7,7 @@ app = Flask(__name__)
 def doRequest():
     data = {
         "serverName": "backend-server",
-        "version": "master",
+        "version": "experimental",
         "success": "true"
     }
     return jsonify(data)
