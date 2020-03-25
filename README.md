@@ -6,5 +6,5 @@ De backend server antwoord gewoon een stuk json als die een get request ontvangt
 	{
         "serverName": "backend-server",
         "version": "master",
-        "success": "true"
+        "success": "false"
     }
